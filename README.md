@@ -8,7 +8,6 @@ A full-stack stock management system that uses a **Red-Black Tree (RBT)** data s
 -  Insert, Delete, Search, Display & Update stock data using a Red-Black Tree in C++
 -  Live stock data fetched using `yfinance` Python library
 -  Load and Save data from/to `stock_dataset.txt`
--  Web-based UI (HTML, CSS, JavaScript) for easy access and interactivity
 -  Display structure of Red-Black Tree visually
 
 
